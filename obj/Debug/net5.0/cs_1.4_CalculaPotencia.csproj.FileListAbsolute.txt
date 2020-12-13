@@ -1,0 +1,16 @@
+E:\GitHub\cs_1.4_CalculaPotencia\bin\Debug\net5.0\cs_1.4_CalculaPotencia.exe
+E:\GitHub\cs_1.4_CalculaPotencia\bin\Debug\net5.0\cs_1.4_CalculaPotencia.deps.json
+E:\GitHub\cs_1.4_CalculaPotencia\bin\Debug\net5.0\cs_1.4_CalculaPotencia.runtimeconfig.json
+E:\GitHub\cs_1.4_CalculaPotencia\bin\Debug\net5.0\cs_1.4_CalculaPotencia.runtimeconfig.dev.json
+E:\GitHub\cs_1.4_CalculaPotencia\bin\Debug\net5.0\cs_1.4_CalculaPotencia.dll
+E:\GitHub\cs_1.4_CalculaPotencia\bin\Debug\net5.0\ref\cs_1.4_CalculaPotencia.dll
+E:\GitHub\cs_1.4_CalculaPotencia\bin\Debug\net5.0\cs_1.4_CalculaPotencia.pdb
+E:\GitHub\cs_1.4_CalculaPotencia\obj\Debug\net5.0\cs_1.4_CalculaPotencia.csprojAssemblyReference.cache
+E:\GitHub\cs_1.4_CalculaPotencia\obj\Debug\net5.0\cs_1.4_CalculaPotencia.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\cs_1.4_CalculaPotencia\obj\Debug\net5.0\cs_1.4_CalculaPotencia.AssemblyInfoInputs.cache
+E:\GitHub\cs_1.4_CalculaPotencia\obj\Debug\net5.0\cs_1.4_CalculaPotencia.AssemblyInfo.cs
+E:\GitHub\cs_1.4_CalculaPotencia\obj\Debug\net5.0\cs_1.4_CalculaPotencia.csproj.CoreCompileInputs.cache
+E:\GitHub\cs_1.4_CalculaPotencia\obj\Debug\net5.0\cs_1.4_CalculaPotencia.dll
+E:\GitHub\cs_1.4_CalculaPotencia\obj\Debug\net5.0\ref\cs_1.4_CalculaPotencia.dll
+E:\GitHub\cs_1.4_CalculaPotencia\obj\Debug\net5.0\cs_1.4_CalculaPotencia.pdb
+E:\GitHub\cs_1.4_CalculaPotencia\obj\Debug\net5.0\cs_1.4_CalculaPotencia.genruntimeconfig.cache

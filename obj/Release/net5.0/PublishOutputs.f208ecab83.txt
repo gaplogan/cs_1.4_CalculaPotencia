@@ -1,0 +1,5 @@
+E:\GitHub\cs_1.4_CalculaPotencia\bin\Release\net5.0\publish\cs_1.4_CalculaPotencia.exe
+E:\GitHub\cs_1.4_CalculaPotencia\bin\Release\net5.0\publish\cs_1.4_CalculaPotencia.dll
+E:\GitHub\cs_1.4_CalculaPotencia\bin\Release\net5.0\publish\cs_1.4_CalculaPotencia.deps.json
+E:\GitHub\cs_1.4_CalculaPotencia\bin\Release\net5.0\publish\cs_1.4_CalculaPotencia.runtimeconfig.json
+E:\GitHub\cs_1.4_CalculaPotencia\bin\Release\net5.0\publish\cs_1.4_CalculaPotencia.pdb
